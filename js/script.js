@@ -69,6 +69,7 @@ const projects = [
   "https://github.com/charanvinay/ReduKT_site",
   "https://github.com/charanvinay/News-app-using-flutter",
   "https://github.com/charanvinay/Handybag",
+  "https://github.com/charanvinay/Novels-app",
 ];
 function goToProject() {
   window.location = projects[itemIndex];
