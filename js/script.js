@@ -71,6 +71,7 @@ const projects = [
   "https://github.com/charanvinay/Handybag",
   "https://github.com/charanvinay/Novels-app",
   "https://github.com/charanvinay/Inshorts-clone",
+  "https://github.com/charanvinay/E-Commerce-app-UI-Flutter",
 ];
 function goToProject() {
   window.location = projects[itemIndex];
