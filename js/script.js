@@ -73,6 +73,7 @@ const projects = [
   "https://github.com/charanvinay/Inshorts-clone",
   "https://github.com/charanvinay/E-Commerce-app-UI-Flutter",
   "https://github.com/charanvinay/Netflix-UI-Using-Flutter",
+  "https://github.com/charanvinay/Chat-app-UI-Flutter",
 ];
 function goToProject() {
   window.location = projects[itemIndex];
