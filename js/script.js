@@ -75,6 +75,8 @@ const projects = [
   "https://github.com/charanvinay/Netflix-UI-Using-Flutter",
   "https://github.com/charanvinay/Chat-app-UI-Flutter",
   "https://github.com/charanvinay/Signal-app-UI-Flutter",
+  "https://github.com/charanvinay/Portfolio-UI-Using-Flutter",
+  "https://github.com/charanvinay/Weatherapp-using-Openweather",
 ];
 function goToProject() {
   window.location = projects[itemIndex];
