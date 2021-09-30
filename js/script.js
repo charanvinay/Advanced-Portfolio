@@ -63,7 +63,11 @@ function nextItem() {
 
 const projects = [
   "https://github.com/charanvinay/Cmail-Gmail_Clone",
+  "https://github.com/charanvinay/Portfolio-UI-Using-Flutter",
+  "https://github.com/charanvinay/Weatherapp-using-Openweather",
   "https://github.com/charanvinay/Facebook_UI_Flutter",
+  "https://github.com/charanvinay/Signal-app-UI-Flutter",
+  "https://github.com/charanvinay/Netflix-UI-Using-Flutter",
   "https://github.com/charanvinay/Shoppiey",
   "https://github.com/charanvinay/Signin-Signup-Charan",
   "#",
@@ -73,11 +77,7 @@ const projects = [
   "https://github.com/charanvinay/Novels-app",
   "https://github.com/charanvinay/Inshorts-clone",
   "https://github.com/charanvinay/E-Commerce-app-UI-Flutter",
-  "https://github.com/charanvinay/Netflix-UI-Using-Flutter",
   "https://github.com/charanvinay/Chat-app-UI-Flutter",
-  "https://github.com/charanvinay/Signal-app-UI-Flutter",
-  "https://github.com/charanvinay/Portfolio-UI-Using-Flutter",
-  "https://github.com/charanvinay/Weatherapp-using-Openweather",
 ];
 function goToProject() {
   window.location = projects[itemIndex];
