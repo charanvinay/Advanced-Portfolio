@@ -62,6 +62,7 @@ function nextItem() {
 }
 
 const projects = [
+  "https://github.com/charanvinay/Cmail-Gmail_Clone",
   "https://github.com/charanvinay/Facebook_UI_Flutter",
   "https://github.com/charanvinay/Shoppiey",
   "https://github.com/charanvinay/Signin-Signup-Charan",
